@@ -15,7 +15,7 @@ The given task is to model and build a relational database that stores useful an
 in a manner that is relevant from a managerial perspective.
 
 ## Data Model:
-This data model is based on the structure of a hypothetical football club. 
+This data model is based on the structure of a hypothetical basketball club. 
 
 ![IMG_0108](https://github.com/indhu0614/MIST_GP/assets/165066443/4eec80ee-30b5-4b01-bc9a-e3f2d07576ed)
 
